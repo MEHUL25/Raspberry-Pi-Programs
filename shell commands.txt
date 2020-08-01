@@ -1,0 +1,24 @@
+
+
+pwd: writes full path name of the current working directory to the output
+
+ls: List all files in a given directory
+
+mkdir : make directory
+
+clear: clear terminal screen
+
+rm : remove a file
+
+rmdir: remove directory
+
+cd directory name : change directory
+
+rmdir test* : removes all directories with prefix "test" followed by any number of charachters.eg:test1,test2 ,test5 etc.
+
+nano: inbulit text editor
+
+nano textf: creates a text file with name "textf.txt"
+
+nano test/textf : creates a text file named "textf.txt" in test directory.
+
